@@ -1,0 +1,10 @@
+{
+  "name": "Speaking Studio - Cô Vũ Thị Thanh Tâm",
+  "description": "Nền tảng luyện nói, phát âm tiếng Anh chuẩn GDPT 2018 cho học sinh tiểu học (Lớp 1-5) - Trường Tiểu học Ái Mộ. Speak Up, Level Up!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
